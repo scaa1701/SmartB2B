@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662763533034",
+    "project_id": "mysmartb2b-cd543",
+    "storage_bucket": "mysmartb2b-cd543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662763533034:android:85e07d64333e4552e39d93",
+        "android_client_info": {
+          "package_name": "pe.pucp.tel306.my.smartb2b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662763533034-41eaj746gl4lndiqq52hv8qvicg92iop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1EZX7rQj-QF2qBu-675yL1sKOmFbC6Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662763533034-41eaj746gl4lndiqq52hv8qvicg92iop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

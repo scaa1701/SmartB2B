@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartB2B</string>
+
+    <string name="contentDescription">Login</string>
+    <string name="loginButton">Login</string>
+    <string name="loginText">Utiliza tu cuenta mySmartB2B para acceder a la mejor opcion de facturacion del Peru</string>
+    <string name="menu_misdatos">Mis datos</string>
+    <string name="menu_mis_facturas_enviadas">Mis facturas enviadas</string>
+    <string name="menu_mis_facturas_recibidas">Mis facturas recibidas</string>
+    <string name="fragmenttitle_empresamisdatos">Mis Datos</string>
+    <string name="fragmenttitle_empresamisfacturas">Mis facturas enviadas</string>
+    <string name="fragmenttitle_empresamisfacturasrecibidas">Mis facturas recibidas</string>
+</resources>
